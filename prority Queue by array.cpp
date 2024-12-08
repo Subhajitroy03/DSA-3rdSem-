@@ -77,6 +77,7 @@ class priorityQueue{
 		
 };
 int main(){
+	//you can use menu driven programme 
 	priorityQueue Pq;
 	Pq.enqueue(5,2);
 	Pq.enqueue(9,6);
